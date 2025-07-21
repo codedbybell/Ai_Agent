@@ -20,10 +20,11 @@ It keeps them safe in a tidy list for you… and even updates itself on GitHub e
 ## 🌸 Folder Structure
 
 Ai_Agent/
-├─ 🧩 agent_search.py           # Main script to search & scrape
-├─ 📜 domains.txt               # Automatically updated list of domains
-├─ 🚀 push_to_github.sh         # Shell script to commit & push changes
-└─ 💌 README.md                 # You are here 💛
+├─ 🧩 agent_search.py    # Main script to search & scrape
+├─ 📜 domains.txt        # Automatically updated list of domains
+├─ 🚀 push_to_github.sh  # Shell script to commit & push changes
+└─ 💌 README.md          # You are here 💛
+
 
 ---
 

@@ -9,21 +9,21 @@ It keeps them safe in a tidy list for you… and even updates itself on GitHub e
 
 ## ✨ What does it do?
 
-🍬 Searches the web for temporary / fake / disposable email services
-🍬 Scrapes domains directly from each site
-🍬 Avoids duplicates (because nobody likes clutter 😌)
-🍬 Saves them in domains.txt so you always have them
-🍬 Pushes to GitHub automatically every week ✨
+- 🍬 Searches the web for temporary / fake / disposable email services
+- 🍬 Scrapes domains directly from each site
+- 🍬 Avoids duplicates (because nobody likes clutter 😌)
+- 🍬 Saves them in domains.txt so you always have them
+- 🍬 Pushes to GitHub automatically every week ✨
 
 ---
 
 ## 🌸 Folder Structure
 
 Ai_Agent/
-├─ 🧩 agent_search.py    # Main script to search & scrape
-├─ 📜 domains.txt        # Automatically updated list of domains
-├─ 🚀 push_to_github.sh  # Shell script to commit & push changes
-└─ 💌 README.md          # You are here 💛
+- ├─ 🧩 agent_search.py    # Main script to search & scrape
+- ├─ 📜 domains.txt        # Automatically updated list of domains
+- ├─ 🚀 push_to_github.sh  # Shell script to commit & push changes
+- └─ 💌 README.md          # You are here 💛
 
 
 ---
